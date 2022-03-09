@@ -40,3 +40,5 @@ https://fullcalendar.io/docs
 https://nextjs.org/docs/getting-started
 
 https://developers.google.com/calendar/api/quickstart/nodejs
+
+https://vercel.com/docs/cli
