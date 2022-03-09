@@ -39,6 +39,6 @@ https://fullcalendar.io/docs
 
 https://nextjs.org/docs/getting-started
 
-https://developers.google.com/calendar/api/quickstart/nodejs
+https://developers.google.com/calendar/api/v3/reference/events
 
 https://vercel.com/docs/cli
