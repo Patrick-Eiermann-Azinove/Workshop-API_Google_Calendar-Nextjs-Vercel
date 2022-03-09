@@ -42,3 +42,5 @@ https://nextjs.org/docs/getting-started
 https://developers.google.com/calendar/api/v3/reference/events
 
 https://vercel.com/docs/cli
+
+https://sudhanshu-coder.medium.com/create-events-on-google-calendar-using-google-calendar-api-in-node-js-c972656c9844
